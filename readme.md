@@ -1,6 +1,6 @@
-# Índice de Recursos de Estudo
+# Carreira
 
-Este índice contém links úteis para aprofundar seus conhecimentos em desenvolvimento e tecnologia, especialmente na área .NET.
+Este repositório contém links úteis para aprofundar seus conhecimentos em desenvolvimento e tecnologia, especialmente na área .NET.
 
 ## 📚 Conteúdos Disponíveis
 
