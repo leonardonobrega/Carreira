@@ -1,6 +1,6 @@
 # Roteiro de estudo (.Net + Angular + Banco de dados)
 
-*A plataforma que recomendo hoje e já utilizei é a Desenvolvedor.IO* e fiz as trilhas abaixo baseado nela
+*A plataforma que recomendo hoje e já utilizei é a [Desenvolvedor.IO](https://desenvolvedor.io/inicio)* e fiz as trilhas abaixo baseado nela
 
 A melhor abordagem depende do seu nível atual e da sua preferência por aprender de forma sequencial ou intercalada. Vou te apresentar as duas estratégias para você escolher a que faz mais sentido.
 
