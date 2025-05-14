@@ -13,8 +13,14 @@ Este índice contém links úteis para aprofundar seus conhecimentos em desenvol
 - [Canais no YouTube](./canais-youtube.md)  
   - Uma lista com os melhores canais para aprender programação, desenvolvimento web e .NET.  
 
----
+
 
 ## 💡 Sugestões e Atualizações
 
 Se tiver sugestões de novos conteúdos ou atualizações, sinta-se à vontade para contribuir!  
+
+
+> A documentação foi criada com o apoio do ChatGPT em *05/2025*, mas revisada e avaliada por Leonardo Nobrega (leonardonobrega.ti@gmail.com).
+
+
+
